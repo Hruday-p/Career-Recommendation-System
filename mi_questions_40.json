@@ -1,0 +1,58 @@
+{
+  "Linguistic": [
+    "I enjoy writing stories, poems, or journal entries.",
+    "I find it easy to express my thoughts through words.",
+    "I love reading books and learning new words.",
+    "I enjoy playing word games like Scrabble or crossword puzzles.",
+    "I can easily remember what I read or hear."
+  ],
+  "Logical_Mathematical": [
+    "I enjoy solving math problems and puzzles.",
+    "I like to analyze patterns and relationships.",
+    "I prefer to organize information in a logical manner.",
+    "I am good at strategic thinking and planning.",
+    "I enjoy working with numbers and calculations."
+  ],
+  "Spatial": [
+    "I can easily visualize objects and spaces in my mind.",
+    "I enjoy drawing, painting, or creating visual art.",
+    "I am good at reading maps and navigating directions.",
+    "I notice colors, shapes, and visual details easily.",
+    "I prefer using diagrams and charts to understand information."
+  ],
+  "Bodily_Kinesthetic": [
+    "I enjoy physical activities and sports.",
+    "I learn better by doing things hands-on.",
+    "I have good coordination and balance.",
+    "I enjoy building or making things with my hands.",
+    "I find it hard to sit still for long periods."
+  ],
+  "Musical": [
+    "I enjoy listening to music and can identify different instruments.",
+    "I can easily remember melodies and rhythms.",
+    "I like to sing or play a musical instrument.",
+    "I often find myself tapping or humming to music.",
+    "I am sensitive to sounds and notice background noises."
+  ],
+  "Interpersonal": [
+    "I enjoy working in groups and collaborating with others.",
+    "I am good at understanding other people's feelings.",
+    "I like to help others solve their problems.",
+    "I have many friends and enjoy social activities.",
+    "I am good at communicating and resolving conflicts."
+  ],
+  "Intrapersonal": [
+    "I enjoy spending time alone reflecting on my thoughts.",
+    "I am aware of my own emotions and feelings.",
+    "I prefer to work independently on projects.",
+    "I have clear goals and know what I want to achieve.",
+    "I like to keep a personal journal or diary."
+  ],
+  "Naturalistic": [
+    "I enjoy spending time outdoors in nature.",
+    "I am interested in plants, animals, and the environment.",
+    "I like to observe and classify natural objects.",
+    "I am concerned about environmental issues.",
+    "I enjoy gardening or taking care of animals."
+  ]
+}
